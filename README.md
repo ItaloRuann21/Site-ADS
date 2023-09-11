@@ -4,8 +4,8 @@
 
 # Resumos de Análise e desenvolvimento de sistemas
 
-# Contato: WhatsApp: (79)99664-1123, Instagram: italo_tavares17
+# Contato: WhatsApp: (79)99134-3217, Instagram: italo_tavares17
 
-# Site do projeto: https://italoruann21.github.io/ProjetoBDresumos/
+# Site do projeto: https://site-ads.vercel.app/
 
 ProjetoBDresumos/
